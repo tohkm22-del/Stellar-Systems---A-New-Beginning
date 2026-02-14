@@ -19,25 +19,33 @@ CC-BY-NC-ND
 I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/ut3c2edz)  
 If there are any other issue report them to me, thank you!
 
+### WHAT IS INCLUDED
+There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.
+
 ### INSTALLATION
-Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.
+Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
 
-|  DEPENDENCIES  |
-| -------------- |
-|  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  |
-|  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | 
-|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) |
+Dependencies
+|  MODS  | PURPOSE |
+| ------------------------- | ------------------------- |
+|  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
+|  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
+|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
 
-| EXTRA MODS [Recommended] |
-| ------------------------- |
-| [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)|
-| [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) |
-|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) |
+Extra mods
+| MODS | PURPOSE |
+| ------------------------- | ------------------------- |
+| [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)| Replaces the stock loading screens with custom ones
+| [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) | Allows for custom skyboxes
+|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) | Allows oxygen to be at certain heights/places
 
-| VISUAL MODS [Recommended] |
-| ------------------------- |
-| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!|
-| [Scatterer](https://github.com/LGhassen/Scatterer/releases) |
-| [FireFly](https://github.com/M1rageDev/Firefly/releases) |
-| [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) |
+Visual mods [Recommended]
+| MODS | PURPOSE |
+| ------------------------- | ------------------------- |
+| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!| Adds 3D dynamic clouds
+| [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
+| [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
+| [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
 
+### EXTRA
+All textures made in GIMP.
