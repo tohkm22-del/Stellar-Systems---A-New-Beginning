@@ -1,5 +1,6 @@
-<img width="1919" height="1079" alt="Heloon" src="https://github.com/user-attachments/assets/5f9492d1-f4dc-4401-b2b5-8834e6ec84cf" />
-<sup>Heloon a temperate ice giant</sup>
+<img width="1920" height="1080" alt="StellarSystems" src="https://github.com/user-attachments/assets/66cc5211-0e06-46d7-a0a1-dbe8c9a36700" />
+
+<sup>Made by @RatchetKSP</sup>
 
 # Stellar Systems, The Start
 Stellar Systems-V1.0  
