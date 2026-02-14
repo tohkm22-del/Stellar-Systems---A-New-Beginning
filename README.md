@@ -7,10 +7,10 @@ Stellar Systems-V1.0
 Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 4 systems with 3 being complete.
 
 ### SYSTEMS:
-Rast - Finished - No analog  
-Nooe - Finished - Upsilon Andromedae analog  
-Swarch - Finished - No analog  
-Xeroon - WIP - No analog  
+- Rast - Finished - No analog  
+- Nooe - Finished - Upsilon Andromedae analog  
+- Swarch - Finished - No analog  
+- Xeroon - WIP - No analog  
 
 ### LICENSE:
 CC-BY-NC-ND
@@ -21,6 +21,17 @@ If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
 There are full science definitions written by Serbhit and me. Full volumetric clouds v5 configs, complete with weather cycles and auroras.
+
+### THE FUTURE
+There will be more systems, like a planned Kerbol outer planets, and many exotic worlds to explore.  
+
+**SYSTEMS IDEAS**  
+- A B-type star hosting many unique planets.  
+- A system early in its development, with many large protoplanetary disks and chaotic environments.  
+- A orange giant star, nearing the end of its life.  
+
+**WIP SYSTEMS**  
+- Xeroon
 
 ### INSTALLATION
 Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
