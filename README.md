@@ -16,7 +16,7 @@ I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, 
 If there are any other issue report them to me, thank you!
 
 ### INSTALLATION
-Download and unzip the Stellar Systems, put Stellar Systems into your GameData.
+Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.
 
 |  DEPENDENCIES  |
 | -------------- |
