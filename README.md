@@ -1,6 +1,6 @@
-# Stellar Systems A New Beginning
-Stellar Systems-V1.0 The Start
-Stellar Systems is a large scale, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far there is 4 systems with 3 being complete.
+# Stellar Systems The Start
+Stellar Systems-V1.0 The Start  
+Stellar Systems is a large-scale, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 4 systems with 3 being complete.
 
 ### SYSTEMS:
 Rast - Finished - No analog  
@@ -12,8 +12,9 @@ Xeroon - WIP - No analog
 CC-BY-NC-ND
 
 ### ISSUES
-Im not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds or Kcalbeloh, if it does conflict please tell me here [Discord](https://discord.gg/ut3c2edz)
-If there are any other issue report them to me, thank you!  
+I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/ut3c2edz)  
+If there are any other issue report them to me, thank you!
+
 ### INSTALLATION
 Download and unzip the Stellar Systems, put Stellar Systems into your GameData.
 
