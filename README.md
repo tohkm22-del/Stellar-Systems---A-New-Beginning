@@ -7,3 +7,19 @@ Rast - Finished - analog | Nooe - Finished - Upsilon Andromedae analog | Swarch 
 
 # LICENSE:
 CC-BY-NC-ND
+
+
+# INSTALLATION
+
+|  DEPENDENCIES  |
+| -------------- |
+|  [Vertex Mitchell Netravali HeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  |
+|  [Vertex Color Map Emissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | 
+|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) |
+|  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) |
+
+| VISUAL MODS [Recommended] |
+| ------------------------- |
+| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC ONLY!|
+| [Scatterer](https://github.com/LGhassen/Scatterer/releases) |
+
