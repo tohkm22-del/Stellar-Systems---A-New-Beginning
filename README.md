@@ -25,13 +25,13 @@ Download and unzip the Stellar Systems, and put the Stellar Systems into your Ga
 | -------------- |
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  |
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | 
-|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) |
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) |
 
 | EXTRA MODS [Recommended] |
 | ------------------------- |
 | [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)|
 | [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) |
+|  [AtmosphereUtilities](https://github.com/plantman-dev/AtmosphereUtilities) |
 
 | VISUAL MODS [Recommended] |
 | ------------------------- |
