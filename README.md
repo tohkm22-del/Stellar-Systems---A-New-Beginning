@@ -26,8 +26,8 @@ Download and unzip the Stellar Systems, put Stellar Systems into your GameData.
 
 | EXTRA MODS [Recommended] |
 | ------------------------- |
-| [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases)|
-| [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) |
+| [Sigma LoadingScreens](https://github.com/Sigma88/Sigma-LoadingScreens/releases/tag/v0.5.0)|
+| [Sigma Replacements SkyBox](https://github.com/Sigma88/Sigma-Replacements/releases/tag/B_v0.5.1) |
 
 | VISUAL MODS [Recommended] |
 | ------------------------- |
