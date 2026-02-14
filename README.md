@@ -53,7 +53,7 @@ Extra mods
 Visual mods [Recommended]
 | MODS | PURPOSE |
 | ------------------------- | ------------------------- |
-| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!| Adds 3D dynamic clouds
+| [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!| Adds dynamic 3D clouds
 | [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
