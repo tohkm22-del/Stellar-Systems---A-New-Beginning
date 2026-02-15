@@ -41,6 +41,7 @@ Dependencies
 | ------------------------- | ------------------------- |
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
+|  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
 |  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
@@ -59,6 +60,7 @@ Visual mods [Recommended]
 | [EVE](https://www.patreon.com/blackrack) VOLUMETRIC V5 ONLY!| Adds dynamic 3D clouds
 | [Scatterer](https://github.com/LGhassen/Scatterer/releases) | Improves atmospheric scattering
 | [FireFly](https://github.com/M1rageDev/Firefly/releases) | Adds new re-entry flames
+|  [PlanetShine](https://github.com/PapaJoesSoup/ksp-planetshine/releases/tag/0.2.6.6) | Reflected glow off of planets or moons
 | [DistantObject](https://github.com/net-lisias-ksp/DistantObject/releases/tag/RELEASE%2F2.2.1.5) | Allows planets and craft to be viewable at a realistic distance
 
 ### EXTRA
