@@ -42,9 +42,10 @@ Dependencies
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
 |  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
+|  [KittopiaTech](https://github.com/Kopernicus/KittopiaTech/releases) | Visual Kopernicus editor
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
-|  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
+|  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 
 Extra mods
 | MODS | PURPOSE |
