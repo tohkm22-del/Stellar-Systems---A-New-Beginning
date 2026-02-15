@@ -60,4 +60,6 @@ Visual mods [Recommended]
 
 ### EXTRA
 All textures made in GIMP.  
-This is my first KSP mod. If you have any feedback, please feel free to share it with me.
+This is my first mod. If you have any feedback, please feel free to share it with me.
+
+Thank you for playing and enjoying my mod!
