@@ -36,7 +36,7 @@ There will be more systems, like a planned Kerbol outer planets, and many exotic
 ### INSTALLATION
 Download and unzip the Stellar Systems, and put the Stellar Systems into your GameData.  
 
-Dependencies
+Dependencies [You **need** these]
 |  MODS  | PURPOSE |
 | ------------------------- | ------------------------- |
 |  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
