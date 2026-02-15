@@ -39,12 +39,14 @@ Download and unzip the Stellar Systems, and put the Stellar Systems into your Ga
 Dependencies
 |  MODS  | PURPOSE |
 | ------------------------- | ------------------------- |
+|  [ModuleManager](https://forum.kerbalspaceprogram.com/topic/50533-18x-112x-module-manager-423-july-03th-2023-fireworks-season/) | Loads mods for KSP
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
 |  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
 |  [KittopiaTech](https://github.com/Kopernicus/KittopiaTech/releases) | Visual Kopernicus editor
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
 |  [HarmonyKSP](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) | Kopernicus dependency
+|  [ModularFlightIntegrator](https://forum.kerbalspaceprogram.com/topic/106369-19-modularflightintegrator-127-19-october-2019/) | Kopernicus dependency
 |  [KSPCommunityFixes](https://github.com/KSPModdingLibs/KSPCommunityFixes/releases) | Bugfix pack
 |  [KEX](https://github.com/VabienArt/KopernicusExpansion-Continueder/releases) | Adds wormholes FX
 
