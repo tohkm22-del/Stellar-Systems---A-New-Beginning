@@ -45,7 +45,6 @@ Dependencies [You **need** these]
 |  [VertexMitchellNetravaliHeightMap](https://github.com/pkmniako/Kopernicus_VertexMitchellNetravaliHeightMap)  | Adds refined Heightmap Algorithms
 |  [VertexColorMapEmissive](https://github.com/jamespglaze/VertexColorMapEmissive)  | Adds planetary emissives
 |  [KSPTextureLoader](https://github.com/Phantomical/KSPTextureLoader/releases) | Optimizes texture loading and memory usage
-|  [KittopiaTech](https://github.com/Kopernicus/KittopiaTech/releases) | Visual Kopernicus editor
 |  [Kopernicus](https://github.com/Kopernicus/Kopernicus/releases/tag/release-238) | Allows Stellar Systems to function
 |  [HarmonyKSP](https://github.com/KSPModdingLibs/HarmonyKSP/releases/tag/2.2.1.0) | Kopernicus dependency
 |  [ModularFlightIntegrator](https://forum.kerbalspaceprogram.com/topic/106369-19-modularflightintegrator-127-19-october-2019/) | Kopernicus dependency
