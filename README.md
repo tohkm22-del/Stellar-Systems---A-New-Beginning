@@ -4,7 +4,26 @@
 
 # Stellar Systems, The Start
 Stellar Systems-V1.0  
-Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 4 systems with 3 being complete.
+Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for KSP. Similar to KSS2 or Promised Worlds, but made mainly by 1 person😅. So far, there are 5 systems with 4 being complete.
+
+# PICTURES
+<img width="500" height="518" alt="fart" src="https://github.com/user-attachments/assets/65987345-69c9-4948-ad2a-a6eafb9796ec" />  
+
+<sup>Euba and its moon Mimar</sup> 
+
+<img width="500" height="1079" alt="Heloon" src="https://github.com/user-attachments/assets/48415f88-ea1b-4b6a-860c-fe956c4220eb" /> 
+
+<sup>Heloon and its moon Crav</sup>  
+
+<img width="500" height="1079" alt="poop" src="https://github.com/user-attachments/assets/42290829-b161-41d0-b1ae-9ba55566f8e4" />  
+
+<sup>Heloon seen from Xovn</sup> 
+
+<img width="500" height="1079" alt="ass" src="https://github.com/user-attachments/assets/c08abf1a-c8b2-42f4-8ba5-690155b5066b" />  
+
+<sup>Eltos seen from orbit</sup>  
+
+  
 
 ### SYSTEMS:
 - Rast - Finished - No analog  
