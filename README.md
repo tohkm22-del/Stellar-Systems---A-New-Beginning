@@ -36,7 +36,7 @@ Stellar Systems is a large-scale, creative, semi-realistic interstellar mod for 
 CC-BY-NC-ND
 
 ### ISSUES
-I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/ut3c2edz)  
+I'm not sure if Stellar Systems conflicts with mods like KSS2, Promised Worlds, or Kcalbeloh. If it does conflict, please tell me here on [Discord](https://discord.gg/7gJw6GxX)  
 If there are any other issue report them to me, thank you!
 
 ### WHAT IS INCLUDED
